@@ -5,4 +5,5 @@
 body {
     background-color: hsl(204, 100%, 98%);
     font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    margin: 0;
 }
